@@ -1,7 +1,7 @@
 # 🌿 Leave Management Application (MERN Stack)
 
 ### 🔗 Live Links
-- *Frontend (Vercel):* https://vercel.com
+- *Frontend (Vercel):* https://leave-frontend-seven.vercel.app/
 - *Backend (Render):* https://leave-backend-6ob3.onrender.com
 
 ---
